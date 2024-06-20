@@ -2,7 +2,7 @@ repo_name: rlfagan/rxdb
 report_id: '097e65af76a40965d3dde2d925abb898'
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-20T23:10:03+00:00'
+timestamp: '2024-06-20T23:15:44+00:00'
 requested_by: renovate-bot
 provider: github
 branch: master
@@ -40,8 +40,6 @@ tools:
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: Abdellah Alaoui
-  last_updated_on: 2016-12-07 09:57:58.000000000 Z
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
     on simplicity and productivity
@@ -53,8 +51,6 @@ tools:
   image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-07-28 09:58:36.000000000 Z
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
   website_url: http://www.typescriptlang.org
@@ -78,8 +74,6 @@ tools:
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: D3.js
   description: A JavaScript visualization library for HTML and SVG
   website_url: http://d3js.org/
@@ -91,8 +85,6 @@ tools:
   image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/docs-src/files/logo/package.json
   detection_source: docs-src/files/logo/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2017-02-04 16:22:45.000000000 Z
 - name: Electron
   description: Build cross platform desktop apps with JavaScript, HTML, and CSS
   website_url: http://electron.atom.io/
@@ -105,8 +97,6 @@ tools:
   image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/electron-remote/package.json
   detection_source: examples/electron-remote/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 18:50:22.000000000 Z
 - name: Expo
   description: Build one project that runs natively on all your users' devices
   website_url: https://expo.dev/
@@ -117,8 +107,6 @@ tools:
   image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: Abdellah Alaoui
-  last_updated_on: 2016-12-07 09:57:58.000000000 Z
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
     fast, flexible, and simple
@@ -132,8 +120,6 @@ tools:
   image_url: https://img.stackshare.io/service/1163/hashtag.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: Less
   description: The dynamic stylesheet language
   website_url: http://lesscss.org/
@@ -146,8 +132,6 @@ tools:
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2017-03-01 17:13:19.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -160,8 +144,6 @@ tools:
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/electron-remote/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-03-17 19:29:22.000000000 Z
 - name: Normalize.css
   description: A modern alternative to CSS resets
   website_url: https://necolas.github.io/normalize.css/
@@ -172,8 +154,6 @@ tools:
   image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-07-28 09:58:36.000000000 Z
 - name: React
   description: A JavaScript library for building user interfaces
   website_url: https://reactjs.org/
@@ -186,8 +166,6 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-08-02 12:29:05.000000000 Z
 - name: React Native
   description: A framework for building native apps with React
   website_url: http://facebook.github.io/
@@ -199,8 +177,6 @@ tools:
   image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-08-02 12:29:05.000000000 Z
 - name: RxJS
   description: The Reactive Extensions for JavaScript
   website_url: http://reactivex.io/rxjs/
@@ -212,8 +188,6 @@ tools:
   image_url: https://img.stackshare.io/service/1796/984368.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-10-26 15:30:15.000000000 Z
 - name: Vue.js
   description: A progressive framework for building user interfaces
   website_url: http://vuejs.org/
@@ -226,8 +200,6 @@ tools:
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2017-03-01 23:43:08.000000000 Z
 - name: css-loader
   description: Helps webpack to collect CSS from all the css files
   website_url: https://github.com/webpack-contrib/css-loader
@@ -239,8 +211,6 @@ tools:
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 16:32:45.000000000 Z
 - name: GraphQL
   description: A data query language and runtime
   website_url: http://graphql.org/
@@ -251,8 +221,6 @@ tools:
   image_url: https://img.stackshare.io/service/3820/12972006.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 19:00:33.000000000 Z
 - name: Pouchdb
   description: Open-source JavaScript database inspired by Apache CouchDB that's designed
     to run well within the browser
@@ -266,8 +234,6 @@ tools:
   image_url: https://img.stackshare.io/service/4114/_Bx4twqB.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-04 02:29:13.000000000 Z
 - name: RxDB
   description: A fast, reactive, client-side database
   website_url: https://github.com/pubkey/rxdb
@@ -280,8 +246,6 @@ tools:
   image_url: https://img.stackshare.io/service/6950/EkEkGLtZ.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-10-26 15:30:15.000000000 Z
 - name: Babel
   description: Use next generation JavaScript, today.
   website_url: http://babeljs.io/
@@ -294,8 +258,6 @@ tools:
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: babel.config.js
-  last_updated_by: pubkey
-  last_updated_on: 2019-09-18 20:35:27.000000000 Z
 - name: Browserify
   description: Browser-side require() the node.js way
   website_url: http://browserify.org/
@@ -308,8 +270,6 @@ tools:
   image_url: https://img.stackshare.io/service/849/9esmqty2.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/docs-src/files/logo/package.json
   detection_source: docs-src/files/logo/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-03-30 16:45:16.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -321,8 +281,6 @@ tools:
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-07-28 09:58:36.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -345,8 +303,6 @@ tools:
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 18:30:03.000000000 Z
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
     browser
@@ -360,8 +316,6 @@ tools:
   image_url: https://img.stackshare.io/service/832/mocha.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/electron-remote/package.json
   detection_source: examples/electron-remote/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 01:07:38.000000000 Z
 - name: PyPI
   description: A repository of software for the Python programming language
   website_url: https://pypi.org/
@@ -372,8 +326,6 @@ tools:
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: Abdellah Alaoui
-  last_updated_on: 2016-12-07 09:57:58.000000000 Z
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
   website_url: https://rubygems.org/
@@ -384,8 +336,6 @@ tools:
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-07-28 09:58:36.000000000 Z
 - name: TSLint
   description: An extensible linter for the TypeScript language
   website_url: https://github.com/palantir/tslint
@@ -396,8 +346,6 @@ tools:
   image_url: https://img.stackshare.io/service/5561/303157.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-10-26 15:30:15.000000000 Z
 - name: TestCafe
   description: A Node.js tool to automate end-to-end web testing
   website_url: https://devexpress.github.io/testcafe/
@@ -410,8 +358,6 @@ tools:
   image_url: https://img.stackshare.io/service/7532/W2FwS-Ry_400x400.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-10-26 15:30:15.000000000 Z
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
     projects
@@ -423,8 +369,6 @@ tools:
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/.travis.yml
   detection_source: ".travis.yml"
-  last_updated_by: pubkey
-  last_updated_on: 2020-04-21 23:02:17.000000000 Z
 - name: Webpack
   description: A bundler for javascript and friends
   website_url: http://webpack.js.org
@@ -437,8 +381,6 @@ tools:
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: config/webpack.config.js
-  last_updated_by: Steven Roussey
-  last_updated_on: 2020-07-29 00:13:59.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -449,8 +391,6 @@ tools:
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2016-12-02 19:40:32.000000000 Z
 - name: pre-commit
   description: A slightly improved pre-commit hook for git
   website_url: http://jish.github.io/pre-commit/
@@ -462,8 +402,6 @@ tools:
   image_url: https://img.stackshare.io/no-img-open-source.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Steven Roussey
-  last_updated_on: 2020-07-29 00:13:59.000000000 Z
 - name: rollup
   description: The next-generation JavaScript module bundler
   website_url: http://rollupjs.org/
@@ -474,8 +412,6 @@ tools:
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 22:43:18.000000000 Z
 - name: Apollo
   description: GraphQL server for Express, Connect, Hapi, Koa and more
   website_url: https://www.apollographql.com/
@@ -487,8 +423,6 @@ tools:
   image_url: https://img.stackshare.io/service/5508/CyUH653y.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 21:46:08.000000000 Z
 - name: Firefox
   description: Mozilla's Web Browser
   website_url: https://www.mozilla.org/en-US/firefox/
@@ -499,8 +433,6 @@ tools:
   image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-01-08 00:58:59.000000000 Z
 - name: Ionicons
   description: Beautifully crafted open source icons
   website_url: http://ionicons.com/
@@ -513,8 +445,6 @@ tools:
   image_url: https://img.stackshare.io/service/5368/icon.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-04-04 16:25:10.000000000 Z
 - name: chalk
   description: terminal colors
   website_url: https://github.com/chalk/chalk
@@ -523,8 +453,6 @@ tools:
   image_url: https://img.stackshare.io/service/8072/13122722.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/node/package.json
   detection_source: examples/node/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-09 07:47:40.000000000 Z
 - name: nconf
   website_url: https://github.com/indexzero/nconf
   open_source: false
@@ -532,8 +460,6 @@ tools:
   image_url: https://img.stackshare.io/service/7721/4624.jpeg
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-05-14 20:37:37.000000000 Z
 - name: crypto-js
   description: JavaScript library of crypto standards
   package_url: https://www.npmjs.com/crypto-js
@@ -546,8 +472,6 @@ tools:
   image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-03-31 01:45:34.000000000 Z
   vulnerabilities:
   - name: crypto-js PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times
       weaker than current standard
@@ -574,8 +498,6 @@ tools:
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
   vulnerabilities:
   - name: qs vulnerable to Prototype Pollution
     cve_id: CVE-2022-24999
@@ -601,8 +523,6 @@ tools:
   image_url: https://img.stackshare.io/package/18251/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-16 02:48:15.000000000 Z
   vulnerabilities:
   - name: Madge vulnerable to command injection
     cve_id: CVE-2021-23352
@@ -622,8 +542,6 @@ tools:
   image_url: https://img.stackshare.io/package/16591/default_50c9ed1615a25628505ab53def64d82450ced26b.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-05-14 20:37:37.000000000 Z
   vulnerabilities:
   - name: Prototype Pollution in nconf
     cve_id: CVE-2022-21803
@@ -643,8 +561,6 @@ tools:
   image_url: https://img.stackshare.io/package/17303/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
   vulnerabilities:
   - name: Prototype Pollution in object-path
     cve_id: CVE-2021-3805
@@ -676,8 +592,6 @@ tools:
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-04-25 05:41:33.000000000 Z
   vulnerabilities:
   - name: Improper Privilege Management in shelljs
     cve_id: CVE-2022-0144
@@ -703,8 +617,6 @@ tools:
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
   vulnerabilities:
   - name: Terser insecure use of regular expressions leads to ReDoS
     cve_id: CVE-2022-25858
@@ -724,8 +636,6 @@ tools:
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-22 03:42:38.000000000 Z
   vulnerabilities:
   - name: Server-Side Request Forgery in Request
     cve_id: CVE-2023-28155
@@ -745,8 +655,6 @@ tools:
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/animations"
   description: Angular - animations integration with web-animations
   package_url: https://www.npmjs.com/@angular/animations
@@ -759,8 +667,6 @@ tools:
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/cdk"
   description: Angular Material Component Development Kit
   package_url: https://www.npmjs.com/@angular/cdk
@@ -773,8 +679,6 @@ tools:
   image_url: https://img.stackshare.io/package/16358/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/cli"
   description: CLI tool for Angular
   package_url: https://www.npmjs.com/@angular/cli
@@ -787,8 +691,6 @@ tools:
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/common"
   description: Angular - commonly needed directives and services
   package_url: https://www.npmjs.com/@angular/common
@@ -801,8 +703,6 @@ tools:
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/compiler"
   description: Angular - the compiler library
   package_url: https://www.npmjs.com/@angular/compiler
@@ -815,8 +715,6 @@ tools:
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/compiler-cli"
   description: Angular - the compiler CLI for Node.js
   package_url: https://www.npmjs.com/@angular/compiler-cli
@@ -829,8 +727,6 @@ tools:
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/forms"
   description: Angular - directives and services for creating forms
   package_url: https://www.npmjs.com/@angular/forms
@@ -843,8 +739,6 @@ tools:
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/http"
   description: Angular - the http service
   package_url: https://www.npmjs.com/@angular/http
@@ -857,8 +751,6 @@ tools:
   image_url: https://img.stackshare.io/package/15977/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-04-04 16:36:05.000000000 Z
 - name: "@angular/language-service"
   description: Angular - language services
   package_url: https://www.npmjs.com/@angular/language-service
@@ -871,8 +763,6 @@ tools:
   image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/material"
   description: Angular Material
   package_url: https://www.npmjs.com/@angular/material
@@ -885,8 +775,6 @@ tools:
   image_url: https://img.stackshare.io/package/16444/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/platform-browser"
   description: Angular - library for using Angular in a web browser
   package_url: https://www.npmjs.com/@angular/platform-browser
@@ -899,8 +787,6 @@ tools:
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/platform-browser-dynamic"
   description: Angular - library for using Angular in a web browser with JIT compilation
   package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
@@ -913,8 +799,6 @@ tools:
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@angular/router"
   description: Angular - the routing library
   package_url: https://www.npmjs.com/@angular/router
@@ -927,8 +811,6 @@ tools:
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 22:16:39.000000000 Z
 - name: "@babel/cli"
   description: Babel command line
   package_url: https://www.npmjs.com/@babel/cli
@@ -941,8 +823,6 @@ tools:
   image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@babel/core"
   description: Babel compiler core
   package_url: https://www.npmjs.com/@babel/core
@@ -955,8 +835,6 @@ tools:
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@babel/plugin-proposal-class-properties"
   description: This plugin transforms static class properties as well as properties
     declared with the property initializer syntax
@@ -970,8 +848,6 @@ tools:
   image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: "@babel/plugin-proposal-object-rest-spread"
   description: Compile object rest and spread to ES5
   package_url: https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread
@@ -984,8 +860,6 @@ tools:
   image_url: https://img.stackshare.io/package/16001/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: "@babel/plugin-transform-modules-commonjs"
   description: This plugin transforms ES2015 modules to CommonJS
   package_url: https://www.npmjs.com/@babel/plugin-transform-modules-commonjs
@@ -998,8 +872,6 @@ tools:
   image_url: https://img.stackshare.io/package/16321/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: "@babel/plugin-transform-runtime"
   description: Externalise references to helpers and builtins
   package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
@@ -1012,8 +884,6 @@ tools:
   image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: "@babel/plugin-transform-spread"
   description: Compile ES2015 spread to ES5
   package_url: https://www.npmjs.com/@babel/plugin-transform-spread
@@ -1026,8 +896,6 @@ tools:
   image_url: https://img.stackshare.io/package/17901/default_d8903d76dded6915fe2da53370802097e7af05c2.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: "@babel/polyfill"
   description: Provides polyfills necessary for a full ES2015+ environment
   package_url: https://www.npmjs.com/@babel/polyfill
@@ -1040,8 +908,6 @@ tools:
   image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@babel/preset-env"
   description: A Babel preset for each environment
   package_url: https://www.npmjs.com/@babel/preset-env
@@ -1054,8 +920,6 @@ tools:
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@babel/preset-typescript"
   description: Babel preset for TypeScript
   package_url: https://www.npmjs.com/@babel/preset-typescript
@@ -1068,8 +932,6 @@ tools:
   image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@babel/runtime"
   description: Babel's modular runtime helpers
   package_url: https://www.npmjs.com/@babel/runtime
@@ -1082,8 +944,6 @@ tools:
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@babel/types"
   description: Babel Types is a Lodash-esque utility library for AST nodes
   package_url: https://www.npmjs.com/@babel/types
@@ -1096,8 +956,6 @@ tools:
   image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@ionic-native/core"
   description: Ionic Native - Native plugins for ionic apps
   package_url: https://www.npmjs.com/@ionic-native/core
@@ -1110,8 +968,6 @@ tools:
   image_url: https://img.stackshare.io/package/17584/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-04-04 16:25:10.000000000 Z
 - name: "@ionic/storage"
   description: Ionic Storage utility
   package_url: https://www.npmjs.com/@ionic/storage
@@ -1124,8 +980,6 @@ tools:
   image_url: https://img.stackshare.io/package/18355/default_04e325d6a24a93f7bb4e9096230aa4915480d6aa.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-04-04 16:36:05.000000000 Z
 - name: "@types/core-js"
   description: TypeScript definitions for core-js
   package_url: https://www.npmjs.com/@types/core-js
@@ -1138,8 +992,6 @@ tools:
   image_url: https://img.stackshare.io/package/16420/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/cors"
   description: TypeScript definitions for cors
   package_url: https://www.npmjs.com/@types/cors
@@ -1152,8 +1004,6 @@ tools:
   image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/express"
   description: TypeScript definitions for Express
   package_url: https://www.npmjs.com/@types/express
@@ -1166,8 +1016,6 @@ tools:
   image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/faker"
   description: TypeScript definitions for faker
   package_url: https://www.npmjs.com/@types/faker
@@ -1180,8 +1028,6 @@ tools:
   image_url: https://img.stackshare.io/package/17400/default_68a60246a766655932541acc39422873bd51360a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/mocha"
   description: TypeScript definitions for mocha
   package_url: https://www.npmjs.com/@types/mocha
@@ -1194,8 +1040,6 @@ tools:
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/node"
   description: TypeScript definitions for Node.js
   package_url: https://www.npmjs.com/@types/node
@@ -1208,8 +1052,6 @@ tools:
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 11:28:21.000000000 Z
 - name: "@types/request"
   description: TypeScript definitions for request
   package_url: https://www.npmjs.com/@types/request
@@ -1222,8 +1064,6 @@ tools:
   image_url: https://img.stackshare.io/package/16354/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/request-promise-native"
   description: TypeScript definitions for request-promise-native
   package_url: https://www.npmjs.com/@types/request-promise-native
@@ -1236,8 +1076,6 @@ tools:
   image_url: https://img.stackshare.io/package/17253/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@types/ws"
   description: TypeScript definitions for ws
   package_url: https://www.npmjs.com/@types/ws
@@ -1250,8 +1088,6 @@ tools:
   image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: "@vue/cli-plugin-pwa"
   description: Pwa plugin for vue-cli
   package_url: https://www.npmjs.com/@vue/cli-plugin-pwa
@@ -1264,8 +1100,6 @@ tools:
   image_url: https://img.stackshare.io/package/18449/default_6dcac5c4efc2d5715bff50b0427ad187013cea59.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:24:23.000000000 Z
 - name: "@vue/cli-plugin-typescript"
   description: Typescript plugin for vue-cli
   package_url: https://www.npmjs.com/@vue/cli-plugin-typescript
@@ -1278,8 +1112,6 @@ tools:
   image_url: https://img.stackshare.io/package/16851/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 11:28:21.000000000 Z
 - name: "@vue/cli-service"
   description: Local service for vue-cli projects
   package_url: https://www.npmjs.com/@vue/cli-service
@@ -1292,8 +1124,6 @@ tools:
   image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:24:23.000000000 Z
 - name: apollo-server-express
   description: Production-ready Node.js GraphQL server for Express and Connect
   package_url: https://www.npmjs.com/apollo-server-express
@@ -1306,8 +1136,6 @@ tools:
   image_url: https://img.stackshare.io/package/17501/default_1d2902e8f9c84259702671591379572493b9009b.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 19:00:33.000000000 Z
 - name: assert
   description: The assert module from Node.js, for the browser
   package_url: https://www.npmjs.com/assert
@@ -1320,8 +1148,6 @@ tools:
   image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-05-12 11:03:29.000000000 Z
 - name: babel-plugin-transform-class-properties
   description: This plugin transforms static class properties as well as properties
     declared with the property initializer syntax
@@ -1335,8 +1161,6 @@ tools:
   image_url: https://img.stackshare.io/package/15928/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: babel-polyfill
   description: Provides polyfills necessary for a full ES2015+ environment
   package_url: https://www.npmjs.com/babel-polyfill
@@ -1349,8 +1173,6 @@ tools:
   image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/electron-remote/package.json
   detection_source: examples/electron-remote/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-03-03 18:50:38.000000000 Z
 - name: babel-preset-expo
   description: The Babel preset for Expo projects
   package_url: https://www.npmjs.com/babel-preset-expo
@@ -1363,8 +1185,6 @@ tools:
   image_url: https://img.stackshare.io/package/18526/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-08-02 12:29:05.000000000 Z
 - name: babel-runtime
   description: Babel selfContained runtime
   package_url: https://www.npmjs.com/babel-runtime
@@ -1377,8 +1197,6 @@ tools:
   image_url: https://img.stackshare.io/package/15861/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/electron-remote/package.json
   detection_source: examples/electron-remote/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-03-03 18:50:38.000000000 Z
 - name: brfs
   description: Browserify fs.readFileSync
   package_url: https://www.npmjs.com/brfs
@@ -1391,8 +1209,6 @@ tools:
   image_url: https://img.stackshare.io/package/16397/default_f1e46d83300118af569c79b07f85830bc788c2d1.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: greenkeeper[bot]
-  last_updated_on: 2019-02-19 16:17:26.000000000 Z
 - name: chalk
   description: Terminal string styling done right
   package_url: https://www.npmjs.com/chalk
@@ -1405,8 +1221,6 @@ tools:
   image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/node/package.json
   detection_source: examples/node/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-09 07:47:40.000000000 Z
 - name: child-process-promise
   description: Simple wrapper around the "child_process" module that makes use of
     promises
@@ -1420,8 +1234,6 @@ tools:
   image_url: https://img.stackshare.io/package/17031/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: clone
   description: Deep cloning of objects and arrays
   package_url: https://www.npmjs.com/clone
@@ -1434,8 +1246,6 @@ tools:
   image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-03-31 21:04:40.000000000 Z
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -1448,8 +1258,6 @@ tools:
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-04-26 00:44:02.000000000 Z
 - name: cors
   description: Node.js CORS middleware
   package_url: https://www.npmjs.com/cors
@@ -1462,8 +1270,6 @@ tools:
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-08-01 19:46:52.000000000 Z
 - name: cross-env
   description: Run scripts that set and use environment variables across platforms
   package_url: https://www.npmjs.com/cross-env
@@ -1476,8 +1282,6 @@ tools:
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: d3
   description: Data-Driven Documents
   package_url: https://www.npmjs.com/d3
@@ -1490,8 +1294,6 @@ tools:
   image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/docs-src/files/logo/package.json
   detection_source: docs-src/files/logo/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2017-02-04 16:22:45.000000000 Z
 - name: deep-equal
   description: Node's assert.deepEqual algorithm
   package_url: https://www.npmjs.com/deep-equal
@@ -1504,8 +1306,6 @@ tools:
   image_url: https://img.stackshare.io/package/16405/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-03-31 20:55:59.000000000 Z
 - name: dependency-check
   description: Checks which modules you have used in your code and then makes sure
     they are listed as dependencies in your package.json
@@ -1519,8 +1319,6 @@ tools:
   image_url: https://img.stackshare.io/package/16828/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-04-03 18:14:34.000000000 Z
 - name: esm
   description: Tomorrow's ECMAScript modules today!
   package_url: https://www.npmjs.com/esm
@@ -1533,8 +1331,6 @@ tools:
   image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-07-28 09:58:36.000000000 Z
 - name: express-graphql
   description: Production ready GraphQL HTTP middleware
   package_url: https://www.npmjs.com/express-graphql
@@ -1547,8 +1343,6 @@ tools:
   image_url: https://img.stackshare.io/package/17490/default_1d2902e8f9c84259702671591379572493b9009b.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 19:00:33.000000000 Z
 - name: faker
   description: Generate massive amounts of fake contextual data
   package_url: https://www.npmjs.com/faker
@@ -1561,8 +1355,6 @@ tools:
   image_url: https://img.stackshare.io/package/16327/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-05-15 05:31:39.000000000 Z
 - name: file-loader
   description: A file loader module for webpack
   package_url: https://www.npmjs.com/file-loader
@@ -1575,8 +1367,6 @@ tools:
   image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 16:32:45.000000000 Z
 - name: font-awesome
   description: The iconic font and CSS framework
   package_url: https://www.npmjs.com/font-awesome
@@ -1589,8 +1379,6 @@ tools:
   image_url: https://img.stackshare.io/package/16160/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-10-26 15:30:15.000000000 Z
 - name: gitbook-cli
   description: CLI to generate books and documentation using gitbook
   package_url: https://www.npmjs.com/gitbook-cli
@@ -1603,8 +1391,6 @@ tools:
   image_url: https://img.stackshare.io/package/17278/default_116e98e237458e603feb81cfbf628c00544be692.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-18 12:39:42.000000000 Z
 - name: global
   description: Require global variables
   package_url: https://www.npmjs.com/global
@@ -1617,8 +1403,6 @@ tools:
   image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-06-10 11:29:54.000000000 Z
 - name: gzip-size-cli
   description: Get the gzipped size of a file or stdin
   package_url: https://www.npmjs.com/gzip-size-cli
@@ -1631,8 +1415,6 @@ tools:
   image_url: https://img.stackshare.io/package/18205/default_dfaa3c3f19039c5391ee1a13529324eaa2685e7f.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-18 12:39:42.000000000 Z
 - name: html-webpack-plugin
   description: Simplifies creation of HTML files to serve your webpack bundles
   package_url: https://www.npmjs.com/html-webpack-plugin
@@ -1645,8 +1427,6 @@ tools:
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-18 12:39:42.000000000 Z
 - name: ionic-angular
   description: A powerful framework for building mobile and progressive web apps with
     JavaScript and Angular
@@ -1660,8 +1440,6 @@ tools:
   image_url: https://img.stackshare.io/package/17096/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-04-04 16:25:10.000000000 Z
 - name: is-my-json-valid
   description: A [JSONSchema]
   package_url: https://www.npmjs.com/is-my-json-valid
@@ -1674,8 +1452,6 @@ tools:
   image_url: https://img.stackshare.io/package/18540/default_316c7c26b7099291d28661888bc7561bd47cba48.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 05:08:49.000000000 Z
 - name: jest-expo
   description: A [Jest]
   package_url: https://www.npmjs.com/jest-expo
@@ -1688,8 +1464,6 @@ tools:
   image_url: https://img.stackshare.io/package/18657/default_985ff1567396ff4f07ccae167a7ed19741ef590a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-08-02 12:29:05.000000000 Z
 - name: karma-babel-preprocessor
   description: Preprocessor to compile ES6 on the fly with babel
   package_url: https://www.npmjs.com/karma-babel-preprocessor
@@ -1702,8 +1476,6 @@ tools:
   image_url: https://img.stackshare.io/package/16504/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: karma-browserify
   description: A fast browserify integration for Karma that handles large projects
     with ease
@@ -1717,8 +1489,6 @@ tools:
   image_url: https://img.stackshare.io/package/16294/default_8b65a873fd3277d73483d6846fa38192391abf23.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-04 00:20:26.000000000 Z
 - name: karma-chrome-launcher
   description: A Karma plugin. Launcher for Chrome and Chrome Canary
   package_url: https://www.npmjs.com/karma-chrome-launcher
@@ -1731,8 +1501,6 @@ tools:
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 18:30:03.000000000 Z
 - name: karma-coverage
   description: A Karma plugin. Generate code coverage
   package_url: https://www.npmjs.com/karma-coverage
@@ -1745,8 +1513,6 @@ tools:
   image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-29 22:20:43.000000000 Z
 - name: karma-detect-browsers
   description: Karma runner plugin for detecting all browsers installed on the current
     system
@@ -1760,8 +1526,6 @@ tools:
   image_url: https://img.stackshare.io/package/17824/default_406cd74505018958e256af1ce55ae768c8a35f72.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-04 00:20:26.000000000 Z
 - name: karma-firefox-launcher
   description: A Karma plugin. Launcher for Firefox
   package_url: https://www.npmjs.com/karma-firefox-launcher
@@ -1774,8 +1538,6 @@ tools:
   image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 18:30:03.000000000 Z
 - name: karma-ie-launcher
   description: A Karma plugin. Launcher for Internet Explorer
   package_url: https://www.npmjs.com/karma-ie-launcher
@@ -1788,8 +1550,6 @@ tools:
   image_url: https://img.stackshare.io/package/16553/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 18:30:03.000000000 Z
 - name: karma-mocha
   description: A Karma plugin. Adapter for Mocha testing framework
   package_url: https://www.npmjs.com/karma-mocha
@@ -1802,8 +1562,6 @@ tools:
   image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: karma-opera-launcher
   description: A Karma plugin. Launcher for Opera
   package_url: https://www.npmjs.com/karma-opera-launcher
@@ -1816,8 +1574,6 @@ tools:
   image_url: https://img.stackshare.io/package/17467/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 18:30:03.000000000 Z
 - name: karma-safari-launcher
   description: A Karma plugin. Launcher for Safari
   package_url: https://www.npmjs.com/karma-safari-launcher
@@ -1830,8 +1586,6 @@ tools:
   image_url: https://img.stackshare.io/package/16426/default_89ba91277e3434b03295bb11d22736632df1d04f.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 18:30:03.000000000 Z
 - name: keypress
   description: Make any Node ReadableStream emit "keypress" events
   package_url: https://www.npmjs.com/keypress
@@ -1844,8 +1598,6 @@ tools:
   image_url: https://img.stackshare.io/package/17628/default_e1c4f2497325ac0d57aca0c3473ca18d24eb8a13.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/node/package.json
   detection_source: examples/node/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2018-06-26 22:55:54.000000000 Z
 - name: less-loader
   description: A Less loader for webpack. Compiles Less to CSS
   package_url: https://www.npmjs.com/less-loader
@@ -1858,8 +1610,6 @@ tools:
   image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-16 16:07:48.000000000 Z
 - name: leveldown
   description: A low-level Node.js LevelDB binding
   package_url: https://www.npmjs.com/leveldown
@@ -1872,8 +1622,6 @@ tools:
   image_url: https://img.stackshare.io/package/17294/default_ab0bb7fabd298a1a7fcdcee736640f5ae8239ec3.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-29 22:20:43.000000000 Z
 - name: memdown
   description: An drop-in replacement for LevelDOWN that works in memory only
   package_url: https://www.npmjs.com/memdown
@@ -1886,8 +1634,6 @@ tools:
   image_url: https://img.stackshare.io/package/17378/default_bdd3cbd2ffd904a2fe09048437badf6984450361.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-03-27 08:28:28.000000000 Z
 - name: mini-css-extract-plugin
   description: Extracts CSS into separate files
   package_url: https://www.npmjs.com/mini-css-extract-plugin
@@ -1900,8 +1646,6 @@ tools:
   image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 16:32:45.000000000 Z
 - name: ncp
   description: Asynchronous recursive file copy utility
   package_url: https://www.npmjs.com/ncp
@@ -1914,8 +1658,6 @@ tools:
   image_url: https://img.stackshare.io/package/16261/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2019-07-28 09:58:36.000000000 Z
 - name: node
   description: Node
   package_url: https://www.npmjs.com/node
@@ -1928,8 +1670,6 @@ tools:
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/electron-remote/package.json
   detection_source: examples/electron-remote/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-03-03 18:50:38.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
@@ -1942,8 +1682,6 @@ tools:
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react/package.json
   detection_source: examples/react/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-03-21 00:06:17.000000000 Z
 - name: react-native
   description: A framework for building native apps using React
   package_url: https://www.npmjs.com/react-native
@@ -1955,8 +1693,6 @@ tools:
   image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-08-02 12:29:05.000000000 Z
 - name: react-scripts
   description: Configuration and scripts for Create React App
   package_url: https://www.npmjs.com/react-scripts
@@ -1969,8 +1705,6 @@ tools:
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react/package.json
   detection_source: examples/react/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-03-21 00:06:17.000000000 Z
 - name: react-test-renderer
   description: React package for snapshot testing
   package_url: https://www.npmjs.com/react-test-renderer
@@ -1983,8 +1717,6 @@ tools:
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-08-02 12:29:05.000000000 Z
 - name: register-service-worker
   description: Script for registering service worker, with hooks
   package_url: https://www.npmjs.com/register-service-worker
@@ -1997,8 +1729,6 @@ tools:
   image_url: https://img.stackshare.io/package/18539/default_e75c3c83e4af96462c99ddf6aabdef371444ed62.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:24:23.000000000 Z
 - name: request-promise
   description: The simplified HTTP request client 'request' with Promise support
   package_url: https://www.npmjs.com/request-promise
@@ -2011,8 +1741,6 @@ tools:
   image_url: https://img.stackshare.io/package/16072/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: request-promise-native
   description: The simplified HTTP request client 'request' with Promise support
   package_url: https://www.npmjs.com/request-promise-native
@@ -2025,8 +1753,6 @@ tools:
   image_url: https://img.stackshare.io/package/16305/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-07-31 23:09:36.000000000 Z
 - name: rimraf
   description: A deep deletion module for node
   package_url: https://www.npmjs.com/rimraf
@@ -2039,8 +1765,6 @@ tools:
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-03-01 16:16:12.000000000 Z
 - name: rollup-plugin-commonjs
   description: Convert CommonJS modules to ES2015
   package_url: https://www.npmjs.com/rollup-plugin-commonjs
@@ -2053,8 +1777,6 @@ tools:
   image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: rollup-plugin-node-resolve
   description: Bundle third-party dependencies in node_modules
   package_url: https://www.npmjs.com/rollup-plugin-node-resolve
@@ -2067,8 +1789,6 @@ tools:
   image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: source-map-support
   description: Fixes stack traces for files with source maps
   package_url: https://www.npmjs.com/source-map-support
@@ -2081,8 +1801,6 @@ tools:
   image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-11 14:06:54.000000000 Z
 - name: style-loader
   description: Style loader module for webpack
   package_url: https://www.npmjs.com/style-loader
@@ -2095,8 +1813,6 @@ tools:
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-02 16:32:45.000000000 Z
 - name: subscriptions-transport-ws
   description: A websocket transport for GraphQL subscriptions
   package_url: https://www.npmjs.com/subscriptions-transport-ws
@@ -2109,8 +1825,6 @@ tools:
   image_url: https://img.stackshare.io/package/17948/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-11 14:06:54.000000000 Z
 - name: sw-toolbox
   description: Service Worker Toolbox provides some simple helpers for use in creating
     your own service workers
@@ -2124,8 +1838,6 @@ tools:
   image_url: https://img.stackshare.io/package/18497/default_36d03266a3367d98c42512c3562c5f1c80019f7d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/ionic2/package.json
   detection_source: examples/ionic2/package.json
-  last_updated_by: ntrp
-  last_updated_on: 2017-05-14 13:00:20.000000000 Z
 - name: terser-webpack-plugin
   description: Terser plugin for webpack
   package_url: https://www.npmjs.com/terser-webpack-plugin
@@ -2138,8 +1850,6 @@ tools:
   image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 18:48:30.000000000 Z
 - name: ts-node
   description: TypeScript execution environment and REPL for node.js
   package_url: https://www.npmjs.com/ts-node
@@ -2152,8 +1862,6 @@ tools:
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-24 03:33:46.000000000 Z
 - name: tslib
   description: Runtime library for TypeScript helper functions
   package_url: https://www.npmjs.com/tslib
@@ -2166,8 +1874,6 @@ tools:
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-08-03 09:09:41.000000000 Z
 - name: url
   description: The core `url` packaged standalone for use with Browserify
   package_url: https://www.npmjs.com/url
@@ -2180,8 +1886,6 @@ tools:
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2016-12-02 19:40:32.000000000 Z
 - name: util
   description: Node.js's util module for all engines
   package_url: https://www.npmjs.com/util
@@ -2194,8 +1898,6 @@ tools:
   image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-04-30 12:15:55.000000000 Z
 - name: vue
   description: Vue
   package_url: https://www.npmjs.com/vue
@@ -2208,8 +1910,6 @@ tools:
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: pubkey
-  last_updated_on: 2017-03-01 17:13:19.000000000 Z
 - name: vue-class-component
   description: ES201X/TypeScript class decorator for Vue components
   package_url: https://www.npmjs.com/vue-class-component
@@ -2222,8 +1922,6 @@ tools:
   image_url: https://img.stackshare.io/package/16641/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 08:51:46.000000000 Z
 - name: vue-property-decorator
   description: Property decorators for Vue Component
   package_url: https://www.npmjs.com/vue-property-decorator
@@ -2236,8 +1934,6 @@ tools:
   image_url: https://img.stackshare.io/package/16727/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 08:51:46.000000000 Z
 - name: vue-router
   description: Official router for Vue.js 2
   package_url: https://www.npmjs.com/vue-router
@@ -2250,8 +1946,6 @@ tools:
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 08:51:46.000000000 Z
 - name: vue-template-compiler
   description: Template compiler for Vue 2.0
   package_url: https://www.npmjs.com/vue-template-compiler
@@ -2264,8 +1958,6 @@ tools:
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/vue/package.json
   detection_source: examples/vue/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-23 08:51:46.000000000 Z
 - name: walk-sync
   description: Get an array of recursive directory contents
   package_url: https://www.npmjs.com/walk-sync
@@ -2278,8 +1970,6 @@ tools:
   image_url: https://img.stackshare.io/package/17846/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-24 00:57:43.000000000 Z
 - name: watch
   description: Utilities for watching file trees
   package_url: https://www.npmjs.com/watch
@@ -2292,8 +1982,6 @@ tools:
   image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/package.json
   detection_source: package.json
-  last_updated_by: pubkey
-  last_updated_on: 2020-04-24 16:10:00.000000000 Z
 - name: watchify
   description: Watch mode for browserify builds
   package_url: https://www.npmjs.com/watchify
@@ -2306,8 +1994,6 @@ tools:
   image_url: https://img.stackshare.io/package/16087/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/docs-src/files/logo/package.json
   detection_source: docs-src/files/logo/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2019-03-30 18:29:15.000000000 Z
 - name: webpack-bundle-analyzer
   description: Webpack plugin and CLI utility that represents bundle content as convenient
     interactive zoomable treemap
@@ -2321,8 +2007,6 @@ tools:
   image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-05-19 13:39:26.000000000 Z
 - name: webpack-cli
   description: CLI for webpack &amp; friends
   package_url: https://www.npmjs.com/webpack-cli
@@ -2335,8 +2019,6 @@ tools:
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-06-18 12:39:42.000000000 Z
 - name: webpack-dev-server
   description: Serves a webpack app. Updates the browser on changes
   package_url: https://www.npmjs.com/webpack-dev-server
@@ -2349,8 +2031,6 @@ tools:
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/graphql/package.json
   detection_source: examples/graphql/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-07-28 21:46:08.000000000 Z
 - name: zone.js
   description: Zones for JavaScript
   package_url: https://www.npmjs.com/zone.js
@@ -2363,5 +2043,3 @@ tools:
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
   detection_source_url: https://github.com/rlfagan/rxdb/blob/master/examples/angular/package.json
   detection_source: examples/angular/package.json
-  last_updated_by: Renovate Bot
-  last_updated_on: 2020-03-17 19:29:22.000000000 Z
