@@ -463,130 +463,130 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[crypto-js](https://www.npmjs.com/crypto-js)|v3.1.9|03/31/19|Renovate Bot |MIT|[CVE-2023-46233](https://github.com/advisories/GHSA-xwcq-pm8m-c4vf) (Critical)<br/>[CVE-2020-36732](https://github.com/advisories/GHSA-3w3w-pxmm-2w2j) (Moderate)|
-|[express](https://www.npmjs.com/express)|v4.17.1|07/31/20|pubkey |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)<br/>[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
-|[madge](https://www.npmjs.com/madge)|v3.9.2|06/16/20|Renovate Bot |MIT|[CVE-2021-23352](https://github.com/advisories/GHSA-753c-phhg-cj29) (High)|
-|[nconf](https://www.npmjs.com/nconf)|v0.10.0|05/14/20|pubkey |MIT|[CVE-2022-21803](https://github.com/advisories/GHSA-6xwr-q98w-rvg7) (High)|
-|[object-path](https://www.npmjs.com/object-path)|v0.11.4|07/31/20|pubkey |MIT|[CVE-2021-3805](https://github.com/advisories/GHSA-8v63-cqqc-6r2c) (High)<br/>[CVE-2020-15256](https://github.com/advisories/GHSA-cwx2-736x-mf6w) (High)<br/>[CVE-2021-23434](https://github.com/advisories/GHSA-v39p-96qg-c8rf) (Moderate)|
-|[shelljs](https://www.npmjs.com/shelljs)|v0.8.4|04/25/20|Renovate Bot |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
-|[terser](https://www.npmjs.com/terser)|v4.8.0|08/03/20|Renovate Bot |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
-|[request](https://www.npmjs.com/request)|v2.88.2|07/22/20|Renovate Bot |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
-|[@angular-devkit/build-angular](https://www.npmjs.com/@angular-devkit/build-angular)|v0.1000.5|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/animations](https://www.npmjs.com/@angular/animations)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/cdk](https://www.npmjs.com/@angular/cdk)|v10.1.2|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/cli](https://www.npmjs.com/@angular/cli)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/common](https://www.npmjs.com/@angular/common)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/compiler](https://www.npmjs.com/@angular/compiler)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/compiler-cli](https://www.npmjs.com/@angular/compiler-cli)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/forms](https://www.npmjs.com/@angular/forms)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/http](https://www.npmjs.com/@angular/http)|v7.2.12|04/04/19|Renovate Bot |MIT|N/A|
-|[@angular/language-service](https://www.npmjs.com/@angular/language-service)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/material](https://www.npmjs.com/@angular/material)|v10.1.2|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/platform-browser](https://www.npmjs.com/@angular/platform-browser)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/platform-browser-dynamic](https://www.npmjs.com/@angular/platform-browser-dynamic)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@angular/router](https://www.npmjs.com/@angular/router)|v9.1.12|08/03/20|Renovate Bot |MIT|N/A|
-|[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.10.5|07/31/20|pubkey |MIT|N/A|
-|[@babel/core](https://www.npmjs.com/@babel/core)|v7.11.0|07/31/20|pubkey |MIT|N/A|
-|[@babel/plugin-proposal-class-properties](https://www.npmjs.com/@babel/plugin-proposal-class-properties)|v7.10.4|08/03/20|Renovate Bot |MIT|N/A|
-|[@babel/plugin-proposal-object-rest-spread](https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread)|v7.11.0|08/03/20|Renovate Bot |MIT|N/A|
-|[@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/@babel/plugin-transform-modules-commonjs)|v7.10.4|08/03/20|Renovate Bot |MIT|N/A|
-|[@babel/plugin-transform-runtime](https://www.npmjs.com/@babel/plugin-transform-runtime)|v7.11.0|08/03/20|Renovate Bot |MIT|N/A|
-|[@babel/plugin-transform-spread](https://www.npmjs.com/@babel/plugin-transform-spread)|v7.11.0|08/03/20|Renovate Bot |MIT|N/A|
-|[@babel/polyfill](https://www.npmjs.com/@babel/polyfill)|v7.10.4|07/31/20|pubkey |MIT|N/A|
-|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.11.0|07/31/20|pubkey |MIT|N/A|
-|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.10.4|07/31/20|pubkey |MIT|N/A|
-|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.11.0|07/31/20|pubkey |MIT|N/A|
-|[@babel/types](https://www.npmjs.com/@babel/types)|v7.11.0|07/31/20|pubkey |MIT|N/A|
-|[@ionic-native/core](https://www.npmjs.com/@ionic-native/core)|v5.3.0|04/04/19|Renovate Bot |MIT|N/A|
-|[@ionic/storage](https://www.npmjs.com/@ionic/storage)|v2.2.0|04/04/19|Renovate Bot |MIT|N/A|
-|[@types/core-js](https://www.npmjs.com/@types/core-js)|v2.5.3|07/31/20|pubkey |MIT|N/A|
-|[@types/cors](https://www.npmjs.com/@types/cors)|v2.8.7|07/31/20|pubkey |MIT|N/A|
-|[@types/express](https://www.npmjs.com/@types/express)|v4.17.7|07/31/20|pubkey |MIT|N/A|
-|[@types/faker](https://www.npmjs.com/@types/faker)|v4.1.12|07/31/20|pubkey |MIT|N/A|
-|[@types/mocha](https://www.npmjs.com/@types/mocha)|v8.0.1|07/31/20|pubkey |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v13.13.15|08/03/20|Renovate Bot |MIT|N/A|
-|[@types/request](https://www.npmjs.com/@types/request)|v2.48.5|07/31/20|pubkey |MIT|N/A|
-|[@types/request-promise-native](https://www.npmjs.com/@types/request-promise-native)|v1.0.17|07/31/20|pubkey |MIT|N/A|
-|[@types/ws](https://www.npmjs.com/@types/ws)|v7.2.6|07/31/20|pubkey |MIT|N/A|
-|[@vue/cli-plugin-pwa](https://www.npmjs.com/@vue/cli-plugin-pwa)|v4.4.6|07/31/20|pubkey |MIT|N/A|
-|[@vue/cli-plugin-typescript](https://www.npmjs.com/@vue/cli-plugin-typescript)|v4.4.6|08/03/20|Renovate Bot |MIT|N/A|
-|[@vue/cli-service](https://www.npmjs.com/@vue/cli-service)|v4.4.6|07/31/20|pubkey |MIT|N/A|
-|[apollo-server-express](https://www.npmjs.com/apollo-server-express)|v2.16.1|08/02/20|Renovate Bot |MIT|N/A|
-|[assert](https://www.npmjs.com/assert)|v2.0.0|05/12/19|Renovate Bot |MIT|N/A|
-|[babel-plugin-transform-class-properties](https://www.npmjs.com/babel-plugin-transform-class-properties)|v6.24.1|08/03/20|Renovate Bot |MIT|N/A|
-|[babel-polyfill](https://www.npmjs.com/babel-polyfill)|v6.26.0|03/03/20|pubkey |MIT|N/A|
-|[babel-preset-expo](https://www.npmjs.com/babel-preset-expo)|v8.2.1|08/02/20|pubkey |MIT|N/A|
-|[babel-runtime](https://www.npmjs.com/babel-runtime)|v6.26.0|03/03/20|pubkey |MIT|N/A|
-|[brfs](https://www.npmjs.com/brfs)|v2.0.2|02/19/19|greenkeeper[bot] |MIT|N/A|
-|[chalk](https://www.npmjs.com/chalk)|v4.1.0|06/09/20|Renovate Bot |MIT|N/A|
-|[child-process-promise](https://www.npmjs.com/child-process-promise)|v2.2.1|07/31/20|pubkey |MIT|N/A|
-|[clone](https://www.npmjs.com/clone)|v2.1.2|03/31/20|pubkey |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v5.2.0|04/26/20|Renovate Bot |MIT|N/A|
-|[cors](https://www.npmjs.com/cors)|v2.8.5|08/01/19|pubkey |MIT|N/A|
-|[cross-env](https://www.npmjs.com/cross-env)|v7.0.2|07/31/20|pubkey |MIT|N/A|
-|[d3](https://www.npmjs.com/d3)|v4.13.0|02/04/17|pubkey |ISC|N/A|
-|[deep-equal](https://www.npmjs.com/deep-equal)|v2.0.1|03/31/20|pubkey |MIT|N/A|
-|[dependency-check](https://www.npmjs.com/dependency-check)|v4.1.0|04/03/20|pubkey |BSD-3-Clause|N/A|
-|[esm](https://www.npmjs.com/esm)|v3.2.25|07/28/19|pubkey |MIT|N/A|
-|[express-graphql](https://www.npmjs.com/express-graphql)|v0.11.0|08/02/20|Renovate Bot |MIT|N/A|
-|[faker](https://www.npmjs.com/faker)|v4.1.0|05/15/20|Renovate Bot |MIT|N/A|
-|[file-loader](https://www.npmjs.com/file-loader)|v6.0.0|08/02/20|Renovate Bot |MIT|N/A|
-|[font-awesome](https://www.npmjs.com/font-awesome)|v4.7.0|10/26/19|pubkey |OFL-1.1,MIT|N/A|
-|[gitbook-cli](https://www.npmjs.com/gitbook-cli)|v2.3.2|06/18/20|Renovate Bot |Apache-2.0|N/A|
-|[global](https://www.npmjs.com/global)|v4.4.0|06/10/19|Renovate Bot |MIT|N/A|
-|[gzip-size-cli](https://www.npmjs.com/gzip-size-cli)|v3.0.0|06/18/20|Renovate Bot |MIT|N/A|
-|[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v4.3.0|06/18/20|Renovate Bot |MIT|N/A|
-|[ionic-angular](https://www.npmjs.com/ionic-angular)|v3.9.4|04/04/19|Renovate Bot |MIT|N/A|
-|[is-my-json-valid](https://www.npmjs.com/is-my-json-valid)|v2.20.5|07/23/20|Renovate Bot |MIT|N/A|
-|[jest-expo](https://www.npmjs.com/jest-expo)|v37.0.0|08/02/20|pubkey |MIT|N/A|
-|[karma-babel-preprocessor](https://www.npmjs.com/karma-babel-preprocessor)|v8.0.1|07/31/20|pubkey |ISC|N/A|
-|[karma-browserify](https://www.npmjs.com/karma-browserify)|v7.0.0|08/04/20|Renovate Bot |MIT|N/A|
-|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v3.1.0|07/28/20|Renovate Bot |MIT|N/A|
-|[karma-coverage](https://www.npmjs.com/karma-coverage)|v2.0.3|07/29/20|pubkey |MIT|N/A|
-|[karma-detect-browsers](https://www.npmjs.com/karma-detect-browsers)|v2.3.3|08/04/20|Renovate Bot |MIT|N/A|
-|[karma-firefox-launcher](https://www.npmjs.com/karma-firefox-launcher)|v1.3.0|07/28/20|Renovate Bot |MIT|N/A|
-|[karma-ie-launcher](https://www.npmjs.com/karma-ie-launcher)|v1.0.0|07/28/20|Renovate Bot |MIT|N/A|
-|[karma-mocha](https://www.npmjs.com/karma-mocha)|v2.0.1|07/31/20|pubkey |MIT|N/A|
-|[karma-opera-launcher](https://www.npmjs.com/karma-opera-launcher)|v1.0.0|07/28/20|Renovate Bot |MIT|N/A|
-|[karma-safari-launcher](https://www.npmjs.com/karma-safari-launcher)|v1.0.0|07/28/20|Renovate Bot |MIT|N/A|
-|[keypress](https://www.npmjs.com/keypress)|v0.2.1|06/26/18|pubkey |MIT|N/A|
-|[less-loader](https://www.npmjs.com/less-loader)|v6.2.0|07/16/20|Renovate Bot |MIT|N/A|
-|[leveldown](https://www.npmjs.com/leveldown)|v5.6.0|07/29/20|pubkey |MIT|N/A|
-|[memdown](https://www.npmjs.com/memdown)|v5.1.0|03/27/20|Renovate Bot |MIT|N/A|
-|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v0.9.0|08/02/20|Renovate Bot |MIT|N/A|
-|[ncp](https://www.npmjs.com/ncp)|v2.0.0|07/28/19|pubkey |MIT|N/A|
-|[node](https://www.npmjs.com/node)|v13.9.0|03/03/20|pubkey |ISC|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v16.13.1|03/21/20|Renovate Bot |MIT|N/A|
-|[react-native](https://www.npmjs.com/react-native)|N/A|08/02/20|pubkey |MIT|N/A|
-|[react-scripts](https://www.npmjs.com/react-scripts)|v3.4.1|03/21/20|Renovate Bot |MIT|N/A|
-|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.13.1|08/02/20|pubkey |MIT|N/A|
-|[register-service-worker](https://www.npmjs.com/register-service-worker)|v1.7.1|07/31/20|pubkey |MIT|N/A|
-|[request-promise](https://www.npmjs.com/request-promise)|v4.2.6|07/31/20|pubkey |ISC|N/A|
-|[request-promise-native](https://www.npmjs.com/request-promise-native)|v1.0.9|07/31/20|pubkey |ISC|N/A|
-|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|03/01/20|Renovate Bot |ISC|N/A|
-|[rollup-plugin-commonjs](https://www.npmjs.com/rollup-plugin-commonjs)|v10.1.0|08/03/20|Renovate Bot |MIT|N/A|
-|[rollup-plugin-node-resolve](https://www.npmjs.com/rollup-plugin-node-resolve)|v5.2.0|08/03/20|Renovate Bot |MIT|N/A|
-|[source-map-support](https://www.npmjs.com/source-map-support)|v0.5.19|07/11/20|Renovate Bot |MIT|N/A|
-|[style-loader](https://www.npmjs.com/style-loader)|v1.2.1|08/02/20|Renovate Bot |MIT|N/A|
-|[subscriptions-transport-ws](https://www.npmjs.com/subscriptions-transport-ws)|v0.9.17|07/11/20|Renovate Bot |MIT|N/A|
-|[sw-toolbox](https://www.npmjs.com/sw-toolbox)|v3.6.0|05/14/17|ntrp |Apache-2.0|N/A|
-|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v3.1.0|08/03/20|Renovate Bot |MIT|N/A|
-|[ts-node](https://www.npmjs.com/ts-node)|v8.10.2|07/24/20|Renovate Bot |MIT|N/A|
-|[tslib](https://www.npmjs.com/tslib)|v2.0.0|08/03/20|Renovate Bot |0BSD|N/A|
-|[url](https://www.npmjs.com/url)|v0.11.0|12/02/16|pubkey |MIT|N/A|
-|[util](https://www.npmjs.com/util)|v0.12.3|04/30/20|Renovate Bot |MIT|N/A|
-|[vue](https://www.npmjs.com/vue)|v2.6.11|03/01/17|pubkey |MIT|N/A|
-|[vue-class-component](https://www.npmjs.com/vue-class-component)|v7.2.5|07/23/20|Renovate Bot |MIT|N/A|
-|[vue-property-decorator](https://www.npmjs.com/vue-property-decorator)|v9.0.0|07/23/20|Renovate Bot |MIT|N/A|
-|[vue-router](https://www.npmjs.com/vue-router)|v3.3.4|07/23/20|Renovate Bot |MIT|N/A|
-|[vue-template-compiler](https://www.npmjs.com/vue-template-compiler)|v2.6.11|07/23/20|Renovate Bot |MIT|N/A|
-|[walk-sync](https://www.npmjs.com/walk-sync)|v2.2.0|06/24/20|Renovate Bot |MIT|N/A|
-|[watch](https://www.npmjs.com/watch)|v1.0.2|04/24/20|pubkey |Apache-2.0|N/A|
-|[watchify](https://www.npmjs.com/watchify)|v3.11.1|03/30/19|Renovate Bot |MIT|N/A|
-|[webpack-bundle-analyzer](https://www.npmjs.com/webpack-bundle-analyzer)|v3.8.0|05/19/20|Renovate Bot |MIT|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.12|06/18/20|Renovate Bot |MIT|N/A|
-|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.11.0|07/28/20|Renovate Bot |MIT|N/A|
-|[zone.js](https://www.npmjs.com/zone.js)|v0.10.3|03/17/20|Renovate Bot |MIT|N/A|
+|[crypto-js](https://www.npmjs.com/crypto-js)|v3.1.9|N/A|N/A |MIT|[CVE-2023-46233](https://github.com/advisories/GHSA-xwcq-pm8m-c4vf) (Critical)<br/>[CVE-2020-36732](https://github.com/advisories/GHSA-3w3w-pxmm-2w2j) (Moderate)|
+|[express](https://www.npmjs.com/express)|v4.17.1|N/A|N/A |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)<br/>[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
+|[madge](https://www.npmjs.com/madge)|v3.9.2|N/A|N/A |MIT|[CVE-2021-23352](https://github.com/advisories/GHSA-753c-phhg-cj29) (High)|
+|[nconf](https://www.npmjs.com/nconf)|v0.10.0|N/A|N/A |MIT|[CVE-2022-21803](https://github.com/advisories/GHSA-6xwr-q98w-rvg7) (High)|
+|[object-path](https://www.npmjs.com/object-path)|v0.11.4|N/A|N/A |MIT|[CVE-2021-3805](https://github.com/advisories/GHSA-8v63-cqqc-6r2c) (High)<br/>[CVE-2020-15256](https://github.com/advisories/GHSA-cwx2-736x-mf6w) (High)<br/>[CVE-2021-23434](https://github.com/advisories/GHSA-v39p-96qg-c8rf) (Moderate)|
+|[shelljs](https://www.npmjs.com/shelljs)|v0.8.4|N/A|N/A |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
+|[terser](https://www.npmjs.com/terser)|v4.8.0|N/A|N/A |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
+|[request](https://www.npmjs.com/request)|v2.88.2|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
+|[@angular-devkit/build-angular](https://www.npmjs.com/@angular-devkit/build-angular)|v0.1000.5|N/A|N/A |MIT|N/A|
+|[@angular/animations](https://www.npmjs.com/@angular/animations)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/cdk](https://www.npmjs.com/@angular/cdk)|v10.1.2|N/A|N/A |MIT|N/A|
+|[@angular/cli](https://www.npmjs.com/@angular/cli)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/common](https://www.npmjs.com/@angular/common)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/compiler](https://www.npmjs.com/@angular/compiler)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/compiler-cli](https://www.npmjs.com/@angular/compiler-cli)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/forms](https://www.npmjs.com/@angular/forms)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/http](https://www.npmjs.com/@angular/http)|v7.2.12|N/A|N/A |MIT|N/A|
+|[@angular/language-service](https://www.npmjs.com/@angular/language-service)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/material](https://www.npmjs.com/@angular/material)|v10.1.2|N/A|N/A |MIT|N/A|
+|[@angular/platform-browser](https://www.npmjs.com/@angular/platform-browser)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/platform-browser-dynamic](https://www.npmjs.com/@angular/platform-browser-dynamic)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@angular/router](https://www.npmjs.com/@angular/router)|v9.1.12|N/A|N/A |MIT|N/A|
+|[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.10.5|N/A|N/A |MIT|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@babel/plugin-proposal-class-properties](https://www.npmjs.com/@babel/plugin-proposal-class-properties)|v7.10.4|N/A|N/A |MIT|N/A|
+|[@babel/plugin-proposal-object-rest-spread](https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/@babel/plugin-transform-modules-commonjs)|v7.10.4|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-runtime](https://www.npmjs.com/@babel/plugin-transform-runtime)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-spread](https://www.npmjs.com/@babel/plugin-transform-spread)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@babel/polyfill](https://www.npmjs.com/@babel/polyfill)|v7.10.4|N/A|N/A |MIT|N/A|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.10.4|N/A|N/A |MIT|N/A|
+|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@babel/types](https://www.npmjs.com/@babel/types)|v7.11.0|N/A|N/A |MIT|N/A|
+|[@ionic-native/core](https://www.npmjs.com/@ionic-native/core)|v5.3.0|N/A|N/A |MIT|N/A|
+|[@ionic/storage](https://www.npmjs.com/@ionic/storage)|v2.2.0|N/A|N/A |MIT|N/A|
+|[@types/core-js](https://www.npmjs.com/@types/core-js)|v2.5.3|N/A|N/A |MIT|N/A|
+|[@types/cors](https://www.npmjs.com/@types/cors)|v2.8.7|N/A|N/A |MIT|N/A|
+|[@types/express](https://www.npmjs.com/@types/express)|v4.17.7|N/A|N/A |MIT|N/A|
+|[@types/faker](https://www.npmjs.com/@types/faker)|v4.1.12|N/A|N/A |MIT|N/A|
+|[@types/mocha](https://www.npmjs.com/@types/mocha)|v8.0.1|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v13.13.15|N/A|N/A |MIT|N/A|
+|[@types/request](https://www.npmjs.com/@types/request)|v2.48.5|N/A|N/A |MIT|N/A|
+|[@types/request-promise-native](https://www.npmjs.com/@types/request-promise-native)|v1.0.17|N/A|N/A |MIT|N/A|
+|[@types/ws](https://www.npmjs.com/@types/ws)|v7.2.6|N/A|N/A |MIT|N/A|
+|[@vue/cli-plugin-pwa](https://www.npmjs.com/@vue/cli-plugin-pwa)|v4.4.6|N/A|N/A |MIT|N/A|
+|[@vue/cli-plugin-typescript](https://www.npmjs.com/@vue/cli-plugin-typescript)|v4.4.6|N/A|N/A |MIT|N/A|
+|[@vue/cli-service](https://www.npmjs.com/@vue/cli-service)|v4.4.6|N/A|N/A |MIT|N/A|
+|[apollo-server-express](https://www.npmjs.com/apollo-server-express)|v2.16.1|N/A|N/A |MIT|N/A|
+|[assert](https://www.npmjs.com/assert)|v2.0.0|N/A|N/A |MIT|N/A|
+|[babel-plugin-transform-class-properties](https://www.npmjs.com/babel-plugin-transform-class-properties)|v6.24.1|N/A|N/A |MIT|N/A|
+|[babel-polyfill](https://www.npmjs.com/babel-polyfill)|v6.26.0|N/A|N/A |MIT|N/A|
+|[babel-preset-expo](https://www.npmjs.com/babel-preset-expo)|v8.2.1|N/A|N/A |MIT|N/A|
+|[babel-runtime](https://www.npmjs.com/babel-runtime)|v6.26.0|N/A|N/A |MIT|N/A|
+|[brfs](https://www.npmjs.com/brfs)|v2.0.2|N/A|N/A |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.0|N/A|N/A |MIT|N/A|
+|[child-process-promise](https://www.npmjs.com/child-process-promise)|v2.2.1|N/A|N/A |MIT|N/A|
+|[clone](https://www.npmjs.com/clone)|v2.1.2|N/A|N/A |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v5.2.0|N/A|N/A |MIT|N/A|
+|[cors](https://www.npmjs.com/cors)|v2.8.5|N/A|N/A |MIT|N/A|
+|[cross-env](https://www.npmjs.com/cross-env)|v7.0.2|N/A|N/A |MIT|N/A|
+|[d3](https://www.npmjs.com/d3)|v4.13.0|N/A|N/A |ISC|N/A|
+|[deep-equal](https://www.npmjs.com/deep-equal)|v2.0.1|N/A|N/A |MIT|N/A|
+|[dependency-check](https://www.npmjs.com/dependency-check)|v4.1.0|N/A|N/A |BSD-3-Clause|N/A|
+|[esm](https://www.npmjs.com/esm)|v3.2.25|N/A|N/A |MIT|N/A|
+|[express-graphql](https://www.npmjs.com/express-graphql)|v0.11.0|N/A|N/A |MIT|N/A|
+|[faker](https://www.npmjs.com/faker)|v4.1.0|N/A|N/A |MIT|N/A|
+|[file-loader](https://www.npmjs.com/file-loader)|v6.0.0|N/A|N/A |MIT|N/A|
+|[font-awesome](https://www.npmjs.com/font-awesome)|v4.7.0|N/A|N/A |OFL-1.1,MIT|N/A|
+|[gitbook-cli](https://www.npmjs.com/gitbook-cli)|v2.3.2|N/A|N/A |Apache-2.0|N/A|
+|[global](https://www.npmjs.com/global)|v4.4.0|N/A|N/A |MIT|N/A|
+|[gzip-size-cli](https://www.npmjs.com/gzip-size-cli)|v3.0.0|N/A|N/A |MIT|N/A|
+|[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v4.3.0|N/A|N/A |MIT|N/A|
+|[ionic-angular](https://www.npmjs.com/ionic-angular)|v3.9.4|N/A|N/A |MIT|N/A|
+|[is-my-json-valid](https://www.npmjs.com/is-my-json-valid)|v2.20.5|N/A|N/A |MIT|N/A|
+|[jest-expo](https://www.npmjs.com/jest-expo)|v37.0.0|N/A|N/A |MIT|N/A|
+|[karma-babel-preprocessor](https://www.npmjs.com/karma-babel-preprocessor)|v8.0.1|N/A|N/A |ISC|N/A|
+|[karma-browserify](https://www.npmjs.com/karma-browserify)|v7.0.0|N/A|N/A |MIT|N/A|
+|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v3.1.0|N/A|N/A |MIT|N/A|
+|[karma-coverage](https://www.npmjs.com/karma-coverage)|v2.0.3|N/A|N/A |MIT|N/A|
+|[karma-detect-browsers](https://www.npmjs.com/karma-detect-browsers)|v2.3.3|N/A|N/A |MIT|N/A|
+|[karma-firefox-launcher](https://www.npmjs.com/karma-firefox-launcher)|v1.3.0|N/A|N/A |MIT|N/A|
+|[karma-ie-launcher](https://www.npmjs.com/karma-ie-launcher)|v1.0.0|N/A|N/A |MIT|N/A|
+|[karma-mocha](https://www.npmjs.com/karma-mocha)|v2.0.1|N/A|N/A |MIT|N/A|
+|[karma-opera-launcher](https://www.npmjs.com/karma-opera-launcher)|v1.0.0|N/A|N/A |MIT|N/A|
+|[karma-safari-launcher](https://www.npmjs.com/karma-safari-launcher)|v1.0.0|N/A|N/A |MIT|N/A|
+|[keypress](https://www.npmjs.com/keypress)|v0.2.1|N/A|N/A |MIT|N/A|
+|[less-loader](https://www.npmjs.com/less-loader)|v6.2.0|N/A|N/A |MIT|N/A|
+|[leveldown](https://www.npmjs.com/leveldown)|v5.6.0|N/A|N/A |MIT|N/A|
+|[memdown](https://www.npmjs.com/memdown)|v5.1.0|N/A|N/A |MIT|N/A|
+|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v0.9.0|N/A|N/A |MIT|N/A|
+|[ncp](https://www.npmjs.com/ncp)|v2.0.0|N/A|N/A |MIT|N/A|
+|[node](https://www.npmjs.com/node)|v13.9.0|N/A|N/A |ISC|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v16.13.1|N/A|N/A |MIT|N/A|
+|[react-native](https://www.npmjs.com/react-native)|N/A|N/A|N/A |MIT|N/A|
+|[react-scripts](https://www.npmjs.com/react-scripts)|v3.4.1|N/A|N/A |MIT|N/A|
+|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.13.1|N/A|N/A |MIT|N/A|
+|[register-service-worker](https://www.npmjs.com/register-service-worker)|v1.7.1|N/A|N/A |MIT|N/A|
+|[request-promise](https://www.npmjs.com/request-promise)|v4.2.6|N/A|N/A |ISC|N/A|
+|[request-promise-native](https://www.npmjs.com/request-promise-native)|v1.0.9|N/A|N/A |ISC|N/A|
+|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|N/A|N/A |ISC|N/A|
+|[rollup-plugin-commonjs](https://www.npmjs.com/rollup-plugin-commonjs)|v10.1.0|N/A|N/A |MIT|N/A|
+|[rollup-plugin-node-resolve](https://www.npmjs.com/rollup-plugin-node-resolve)|v5.2.0|N/A|N/A |MIT|N/A|
+|[source-map-support](https://www.npmjs.com/source-map-support)|v0.5.19|N/A|N/A |MIT|N/A|
+|[style-loader](https://www.npmjs.com/style-loader)|v1.2.1|N/A|N/A |MIT|N/A|
+|[subscriptions-transport-ws](https://www.npmjs.com/subscriptions-transport-ws)|v0.9.17|N/A|N/A |MIT|N/A|
+|[sw-toolbox](https://www.npmjs.com/sw-toolbox)|v3.6.0|N/A|N/A |Apache-2.0|N/A|
+|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v3.1.0|N/A|N/A |MIT|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v8.10.2|N/A|N/A |MIT|N/A|
+|[tslib](https://www.npmjs.com/tslib)|v2.0.0|N/A|N/A |0BSD|N/A|
+|[url](https://www.npmjs.com/url)|v0.11.0|N/A|N/A |MIT|N/A|
+|[util](https://www.npmjs.com/util)|v0.12.3|N/A|N/A |MIT|N/A|
+|[vue](https://www.npmjs.com/vue)|v2.6.11|N/A|N/A |MIT|N/A|
+|[vue-class-component](https://www.npmjs.com/vue-class-component)|v7.2.5|N/A|N/A |MIT|N/A|
+|[vue-property-decorator](https://www.npmjs.com/vue-property-decorator)|v9.0.0|N/A|N/A |MIT|N/A|
+|[vue-router](https://www.npmjs.com/vue-router)|v3.3.4|N/A|N/A |MIT|N/A|
+|[vue-template-compiler](https://www.npmjs.com/vue-template-compiler)|v2.6.11|N/A|N/A |MIT|N/A|
+|[walk-sync](https://www.npmjs.com/walk-sync)|v2.2.0|N/A|N/A |MIT|N/A|
+|[watch](https://www.npmjs.com/watch)|v1.0.2|N/A|N/A |Apache-2.0|N/A|
+|[watchify](https://www.npmjs.com/watchify)|v3.11.1|N/A|N/A |MIT|N/A|
+|[webpack-bundle-analyzer](https://www.npmjs.com/webpack-bundle-analyzer)|v3.8.0|N/A|N/A |MIT|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.12|N/A|N/A |MIT|N/A|
+|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.11.0|N/A|N/A |MIT|N/A|
+|[zone.js](https://www.npmjs.com/zone.js)|v0.10.3|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
